@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-> Desenvolvedor frontend e mobile apaixonado por criar experiências digitais que fazem a diferença. Baseado no Rio de Janeiro 🌊, construo interfaces modernas com Vue.js para a web e aplicativos nativos com React Native para iOS e Android.
+> Desenvolvedor frontend e mobile apaixonado por criar experiências digitais que fazem a diferença. Construindo interfaces modernas com Vue.js para a web e aplicativos nativos com React Native para iOS e Android.
 >
 > Acredito que um bom código é como um bom design: invisível para o usuário, mas sentido em cada interação.
 
