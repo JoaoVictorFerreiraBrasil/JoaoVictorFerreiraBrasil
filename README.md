@@ -60,26 +60,7 @@ const joaoVictor = {
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorFerreiraBrasil&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=42D392&icon_color=42D392"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorFerreiraBrasil&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=42D392"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoVictorFerreiraBrasil&theme=vue-dark&hide_border=true&background=0d1117&ring=42D392&fire=42D392&currStreakLabel=42D392" />
-</div>
-
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorFerreiraBrasil&theme=vue&bg_color=0d1117&color=42D392&line=42D392&point=ffffff&hide_border=true" width="100%"/>
-</div>
-
----
 
 ## 📬 Contato
 
