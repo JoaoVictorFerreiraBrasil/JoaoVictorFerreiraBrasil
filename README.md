@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42d392,100:213547&height=200&section=header&text=João%20Victor%20Brasil&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20Mobile%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42d392,100:213547&height=200&section=header&text=João%20Victor%20Ferreira&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20Mobile%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Desenvolvedor+Vue.js+%F0%9F%9F%A2;Desenvolvedor+React+Native+%F0%9F%93%B1;Transformando+ideias+em+interfaces;Carioca+%F0%9F%8C%8A+%7C+Rio+de+Janeiro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Desenvolvedor+Vue.js+%F0%9F%9F%A2;Desenvolvedor+React+Native+%F0%9F%93%B1;Transformando+ideias+em+interfaces;Teresópolis+%7C+Rio+de+Janeiro+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,17 +16,17 @@
 
 ## 👨‍💻 Sobre mim
 
-> Desenvolvedor frontend e mobile apaixonado por criar experiências digitais que fazem a diferença. Construindo interfaces modernas com Vue.js para a web e aplicativos nativos com React Native para iOS e Android.
+> Desenvolvedor frontend e mobile apaixonado por criar experiências digitais que fazem a diferença. Construo interfaces modernas com Vue.js para a web e aplicativos nativos com React Native para iOS e Android.
 >
 > Acredito que um bom código é como um bom design: invisível para o usuário, mas sentido em cada interação.
 
 ```js
 const joaoVictor = {
-  localização:  "Rio de Janeiro, Brasil 🇧🇷",
-  foco:         ["Frontend Web", "Mobile Development"],
-  stacks:       ["Vue.js", "React Native", "JavaScript"],
-  atualmente:   "Construindo interfaces que encantam 🚀",
-  contato:      "WhatsApp: (21) 96751-2002",
+  localização: "Teresópolis, Rio de Janeiro 🇧🇷",
+  foco:        ["Frontend Web", "Mobile Development"],
+  stacks:     ["Vue.js", "React Native", "JavaScript"],
+  atualmente: "Construindo interfaces que encantam 🚀",
+  contato:    "WhatsApp: (21) 96751-2002",
 };
 ```
 
@@ -59,8 +59,6 @@ const joaoVictor = {
 </div>
 
 ---
-
-
 
 ## 📬 Contato
 
